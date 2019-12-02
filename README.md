@@ -1,5 +1,5 @@
 # pokemon-data
-Pokémon Gameboy Games with my progress data  
+Play Pokémon Gameboy Games on Debian!!
 
 # Installing VBA-gtk
 chmod a+x vba-install.sh  
