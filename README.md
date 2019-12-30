@@ -1,4 +1,4 @@
-# pokemon-data
+# pokemonlog
 Play Pokémon Gameboy Games on Debian!!
 
 # Installing VBA-gtk
