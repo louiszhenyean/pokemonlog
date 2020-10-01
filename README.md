@@ -3,7 +3,7 @@ Play Pokémon Gameboy Games on Debian!!
 
 # Install DeSmuME for NDS
 ```
-sudoapt install desmume
+sudo apt install desmume
 ```
 
 # Installing VBA-gtk
